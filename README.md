@@ -2,6 +2,7 @@
 
 This repository archives all the code for the project I participated in for the Chiang Mai University Data Science Project Contest 2024, where me and my friends achieved first place.
 
+<img src="img/champion.jpg">
 <img src="img/slide/1.jpg">
 <img src="img/slide/2.jpg">
 <img src="img/slide/3.jpg">
